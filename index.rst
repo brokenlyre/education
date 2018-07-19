@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Subject Two
-===========
+Education Opportunities
+=======================
 
-This is even better than the first subject because it is one higher than that one.
+These are things to learn and we love it.
 
 .. toctree::
    :maxdepth: 2
