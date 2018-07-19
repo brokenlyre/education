@@ -1,0 +1,6 @@
+[submodule "subject1"]
+	path = subject1
+	url = https://github.com/brokenlyre/subject1.git
+[submodule "subject2"]
+	path = subject2
+	url = https://github.com/brokenlyre/subject2.git
