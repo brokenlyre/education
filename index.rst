@@ -13,3 +13,5 @@ This is even better than the first subject because it is one higher than that on
    :caption: Contents:
 
    allabout
+   subject1/index
+   subject2/index
