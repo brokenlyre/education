@@ -15,3 +15,5 @@ These are things to learn and we love it.
    allabout
    subject1/index
    subject2/index
+
+The best lesson thought is :ref:`subject1_lesson1_Example1` over here!
