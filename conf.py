@@ -164,7 +164,8 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'python': ('https://docs.python.org/', None),
-                       'subject1': ('http://www.polymathist.me/subject1/', None)}
+                       'subject1': ('http://www.polymathist.me/subject1/', None),
+                       'subject2': ('http://www.polymathist.me/subject2/', None)}
 
 # -- Options for todo extension ----------------------------------------------
 
